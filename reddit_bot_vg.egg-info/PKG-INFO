@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: reddit_bot_vg
+Version: 0.0.2
+Summary: A Reddit bot for automating tasks
+Home-page: https://github.com/VashonG/lead
+Author: Vashon Gonzales
+Author-email: Vashon Gonzales <vashon@itscoop.com>
+Project-URL: Homepage, https://github.com/VashonG/reddit-bot
+Project-URL: Issues, https://github.com/VashonG/reddit-bot/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE

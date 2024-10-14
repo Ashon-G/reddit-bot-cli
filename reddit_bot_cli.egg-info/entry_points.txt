@@ -1,0 +1,2 @@
+[console_scripts]
+reddit-bot-cli = reddit_bot.cli:main

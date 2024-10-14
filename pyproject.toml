@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "reddit_bot_cli"
+version = "0.0.5"
+authors = [
+  { name = "Vashon Gonzales", email = "vashon@itscoop.com" },
+]
+description = "A Reddit bot for automating tasks."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.8"
+dependencies = ["praw"]
+
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/VashonG/reddit-bot"
+Issues = "https://github.com/VashonG/reddit-bot/issues"
+
+[project.scripts]
+reddit-bot-cli = "reddit_bot.cli:main"
