@@ -6,6 +6,8 @@ setup.py
 reddit_bot/__init__.py
 reddit_bot/bot.py
 reddit_bot/cli.py
+reddit_bot/ml_models.py
+reddit_bot/nlp.py
 reddit_bot_cli.egg-info/PKG-INFO
 reddit_bot_cli.egg-info/SOURCES.txt
 reddit_bot_cli.egg-info/dependency_links.txt
