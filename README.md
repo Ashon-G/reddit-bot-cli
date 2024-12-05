@@ -1,3 +1,6 @@
+![Frame 1](https://github.com/user-attachments/assets/01534291-2931-4791-831d-39f2776f25a7)
+[![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/53010)  [![CodeScene Code Health](https://codescene.io/projects/53010/status-badges/code-health)](https://codescene.io/projects/53010)
+
 # Reddit Bot CLI
 
 **Reddit Bot CLI** is a command-line tool that automatically monitors specific subreddits for keywords and posts comments when those keywords are found. This tool is ideal for automating responses to relevant Reddit posts.
